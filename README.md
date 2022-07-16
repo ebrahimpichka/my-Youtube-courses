@@ -1,7 +1,7 @@
 # 📺 ML/AI/CS YouTube Courses
 
 In this repo I'll list some of the best and most recent ML, AI, and CS courses available on YouTube or other free resources.
-This list is derived from the DAIR.AI list (forked) and revised for my own use with addition of new resources.
+This list is derived from the DAIR.AI list and revised for my own use with addition of new resources.
 
 **Machine Learning**
 
